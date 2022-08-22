@@ -5,15 +5,13 @@ Aprender e colocar em prática o conhecimento de markdown para documentar proces
 
 <br>
 
-1️⃣ Criar um repositório em seu Github chamado projetos.
+:one: Criar uma pasta dentro do repositório, chamada `Desafio: Markdown`.
 
-2️⃣ Criar uma pasta dentro do repositório, chamada desafios-semanais.
+:two: Criar uma nova pasta dentro da pasta "Desafio: Markdown" com o nome `Markdown Básico`.
 
-3️⃣ Criar uma nova pasta dentro da pasta "desafio-semanais" com o nome markdown.
+:three: Criar um arquivo markdown dentro da pasta "Markdown Básico" com o nome `markdown-tarefa1.md`.
 
-4️⃣ Criar um arquivo markdown dentro da pasta "markdown" com o nome markdown-tarefa1.md.
-
-5️⃣ No arquivo .md, deverá constar os seguintes elementos:
+:four: No arquivo .md, deverá constar os seguintes elementos:
 
  > - Pelo menos dois tamanhos de títulos;
  > - Parágrafos separados por quebra de linhas;
@@ -25,9 +23,9 @@ Aprender e colocar em prática o conhecimento de markdown para documentar proces
  > - Pelo menos um link;
  > - Pelo menos uma imagem.
 
-6️⃣ Commitar e salvar o arquivo .md
+:five: Commitar e salvar o arquivo .md
 
-7️⃣ Compartilhar link do arquivo .md no espaço do Google Chat do Time de Dados.
+:six: Compartilhar link do arquivo .md no espaço do Google Chat do Time de Dados.
 
 <br>
 
