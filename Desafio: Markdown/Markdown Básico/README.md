@@ -5,7 +5,7 @@ Aprender e colocar em prática o conhecimento de markdown para documentar proces
 
 <br>
 
-:one: Criar uma pasta dentro do repositório "MaoNaMAssa chamada `Desafio: Markdown`.
+:one: Criar uma pasta dentro do repositório "ProjetoMaoNaMAssa" chamada `Desafio: Markdown`.
 
 :two: Criar uma nova pasta dentro da pasta "Desafio: Markdown" com o nome `Markdown Básico`.
 
