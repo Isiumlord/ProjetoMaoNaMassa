@@ -15,15 +15,15 @@ Aprender e colocar em prática o conhecimento de markdown para documentar proces
 
 5️⃣ No arquivo .md, deverá constar os seguintes elementos:
 
- > - Pelo menos dois tamanhos de títulos
- > - Parágrafos separados por quebra de linhas
- > - Ênfase com trechos em negrito
- > - Ênfase com trechos em itálico
- > - Pelo menos uma citação em bloco
- > - Pelo menos um tipo de lista (ordenada ou não ordenada)
- > - Todos os códigos devem estar indicados de forma clara (entre acentos graves)
- > - Pelo menos um link
- > - Pelo menos uma imagem
+ > - Pelo menos dois tamanhos de títulos;
+ > - Parágrafos separados por quebra de linhas;
+ > - Ênfase com trechos em negrito;
+ > - Ênfase com trechos em itálico;
+ > - Pelo menos uma citação em bloco;
+ > - Pelo menos um tipo de lista (ordenada ou não ordenada);
+ > - Todos os códigos devem estar indicados de forma clara (entre acentos graves);
+ > - Pelo menos um link;
+ > - Pelo menos uma imagem.
 
 6️⃣ Commitar e salvar o arquivo .md
 
