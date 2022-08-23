@@ -46,7 +46,8 @@ Para resolver o desafio [Google Cloud Storage](https://github.com/Isiumlord/Proj
 ```bash
 gcloud auth login
 ```
-<img align="center" alt="engen" width="980" src="https://github.com/Isiumlord/ProjetoMaoNaMassa/blob/main/Desafio:%20Google%20Cloud%20Storage/Prints/P7.png">
+> * Resultado:
+> <img align="center" alt="engen" width="980" src="https://github.com/Isiumlord/ProjetoMaoNaMassa/blob/main/Desafio:%20Google%20Cloud%20Storage/Prints/P7.png">
 <br>
 
 > 4.	Forneça Login e Senha;
@@ -62,14 +63,16 @@ gcloud auth login
 ```bash
 gsutil mb -p data-labs-358422 -c standard -l us-central1 -b on gs://isidoro_bucket3
 ```
-<img align="center" alt="engen" width="980" src="https://github.com/Isiumlord/ProjetoMaoNaMassa/blob/main/Desafio:%20Google%20Cloud%20Storage/Prints/P9.png">
+> * Resultado:
+> <img align="center" alt="engen" width="980" src="https://github.com/Isiumlord/ProjetoMaoNaMassa/blob/main/Desafio:%20Google%20Cloud%20Storage/Prints/P9.png">
 <br>
 
 2.	Liste as buckets para ver se elas constam no projeto utilizando o comando:
 ```bash
 gsutil ls
 ```
-<img align="center" alt="engen" width="980" src="https://github.com/Isiumlord/ProjetoMaoNaMassa/blob/main/Desafio:%20Google%20Cloud%20Storage/Prints/P10.png">
+> * Resultado:
+> <img align="center" alt="engen" width="650" src="https://github.com/Isiumlord/ProjetoMaoNaMassa/blob/main/Desafio:%20Google%20Cloud%20Storage/Prints/P10.png">
 <br>
 
 *	Para confirmar o resultado da listagem acesse via ambiente gráfico o ***Cloud Storage > Navegador*** para ter a visão das **3 buckets** listadas.
@@ -82,7 +85,8 @@ gsutil ls -r gs://isidoro_bucket1
 gsutil ls -r gs://isidoro_bucket2
 gsutil ls -r gs://isidoro_bucket3
 ```
-<img align="center" alt="engen" width="980" src="https://github.com/Isiumlord/ProjetoMaoNaMassa/blob/main/Desafio:%20Google%20Cloud%20Storage/Prints/P12.png">
+> * Resultado:
+> <img align="center" alt="engen" width="750" src="https://github.com/Isiumlord/ProjetoMaoNaMassa/blob/main/Desafio:%20Google%20Cloud%20Storage/Prints/P12.png">
 <br>
 
 4.	Copie os arquivos encontrados em `isidoro_bucket1` e `isidoro_bucket2` para a `isidoro_bucket3` utilizando os comandos:
@@ -90,14 +94,16 @@ gsutil ls -r gs://isidoro_bucket3
 gsutil cp gs://isidoro_bucket1/Storage.png gs://isidoro_bucket3/Storage-copy.png
 gsutil cp gs://isidoro_bucket2/Isidoro.txt gs://isidoro_bucket3/Isidoro-copy.txt
 ```
-<img align="center" alt="engen" width="980" src="https://github.com/Isiumlord/ProjetoMaoNaMassa/blob/main/Desafio:%20Google%20Cloud%20Storage/Prints/P13.png">
+> * Resultado:
+> <img align="center" alt="engen" width="980" src="https://github.com/Isiumlord/ProjetoMaoNaMassa/blob/main/Desafio:%20Google%20Cloud%20Storage/Prints/P13.png">
 <br>
 
 5. Consulte os arquivos da `bucket Isidoro_bucket3` para confirmar se os arquivos foram devidamente copiados usando o comando:
 ```bash
 gsutil ls -r gs://isidoro_bucket3
 ```
-<img align="center" alt="engen" width="980" src="https://github.com/Isiumlord/ProjetoMaoNaMassa/blob/main/Desafio:%20Google%20Cloud%20Storage/Prints/P14.png">
+> * Resultado:
+> <img align="center" alt="engen" width="900" src="https://github.com/Isiumlord/ProjetoMaoNaMassa/blob/main/Desafio:%20Google%20Cloud%20Storage/Prints/P14.png">
 <br>
 
 * Para confirmar o resultado das cópias acesse via ambiente gráfico o ***Cloud Storage > Navegador > isidoro_bucket3***.
@@ -110,14 +116,16 @@ gsutil ls -r gs://isidoro_bucket3
 gsutil rm -r gs://isidoro_bucket1
 gsutil rm -r gs://isidoro_bucket2
 ```
-<img align="center" alt="engen" width="980" src="https://github.com/Isiumlord/ProjetoMaoNaMassa/blob/main/Desafio:%20Google%20Cloud%20Storage/Prints/P16.png">
+> * Resultado:
+> <img align="center" alt="engen" width="980" src="https://github.com/Isiumlord/ProjetoMaoNaMassa/blob/main/Desafio:%20Google%20Cloud%20Storage/Prints/P16.png">
 <br>
 
 7. Liste as buckets para ver se elas foram excluídas realmente do projeto utilizando o comando:
 ```bash
 gsutil ls
 ```
-<img align="center" alt="engen" width="980" src="https://github.com/Isiumlord/ProjetoMaoNaMassa/blob/main/Desafio:%20Google%20Cloud%20Storage/Prints/P17.png">
+> * Resultado:
+> <img align="center" alt="engen" width="700" src="https://github.com/Isiumlord/ProjetoMaoNaMassa/blob/main/Desafio:%20Google%20Cloud%20Storage/Prints/P17.png">
 <br>
 
 * Para confirmar o resultado da listagem acesse via ambiente gráfico o ***Cloud Storage > Navegador*** tendo a visão apenas da bucket listada.
@@ -129,7 +137,8 @@ gsutil ls
 gsutil cp gs://isidoro_bucket3/Isidoro-copy.txt C:\Users\isidoro.brito_multie\Desktop
 gsutil cp gs://isidoro_bucket3/Storage-copy.png C:\Users\isidoro.brito_multie\Desktop
 ```
-<img align="center" alt="engen" width="980" src="https://github.com/Isiumlord/ProjetoMaoNaMassa/blob/main/Desafio:%20Google%20Cloud%20Storage/Prints/P19.png">
+> * Resultado:
+> <img align="center" alt="engen" width="980" src="https://github.com/Isiumlord/ProjetoMaoNaMassa/blob/main/Desafio:%20Google%20Cloud%20Storage/Prints/P19.png">
 <br>
 
 
