@@ -154,6 +154,3 @@ gsutil cp gs://isidoro_bucket3/Storage-copy.png C:\Users\isidoro.brito_multie\De
 
 * Volte a área do ***Cloud Storage > Navegador*** para ver se o ambiente esta sem nenhuma Bucket.
 <img align="center" alt="engen" width="980" src="https://github.com/Isiumlord/ProjetoMaoNaMassa/blob/main/Desafio:%20Google%20Cloud%20Storage/Prints/P21.png">
-
- 
-
