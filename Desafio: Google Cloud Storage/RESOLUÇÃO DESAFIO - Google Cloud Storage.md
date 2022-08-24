@@ -47,12 +47,12 @@ Para resolver o desafio [Google Cloud Storage](https://github.com/Isiumlord/Proj
 gcloud auth login
 ```
 > * Resultado:
-> <img align="center" alt="engen" width="980" src="https://github.com/Isiumlord/ProjetoMaoNaMassa/blob/main/Desafio:%20Google%20Cloud%20Storage/Prints/P7.png">
+> <img align="center" alt="engen" width="980" src="https://github.com/Isiumlord/ProjetoMaoNaMassa/blob/main/Desafio:%20Google%20Cloud%20Storage/Prints/P77.png">
 <br>
 
 > 4.	Forneça Login e Senha;
 > 5.	Permita o acesso do **Google Cloud SDK Shell** a sua conta no ***Google Cloud Plataform***.
-<img align="center" alt="engen" width="500" src="https://github.com/Isiumlord/ProjetoMaoNaMassa/blob/main/Desafio:%20Google%20Cloud%20Storage/Prints/P8.png">
+<img align="center" alt="engen" width="500" src="https://github.com/Isiumlord/ProjetoMaoNaMassa/blob/main/Desafio:%20Google%20Cloud%20Storage/Prints/P88.png">
 <br>
 
 
