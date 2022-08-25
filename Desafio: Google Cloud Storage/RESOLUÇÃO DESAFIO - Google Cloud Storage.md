@@ -1,5 +1,5 @@
 # RESOLUÇÃO DO DESAFIO: Google Cloud Storage
-Para resolver o desafio [Google Cloud Storage](https://github.com/Isiumlord/ProjetoMaoNaMassa/tree/main/Desafio:%20Google%20Cloud%20Storage) mesclou-se tanto o ambiente gráfico quanto o uso de linhas de comando. Foram usados 5 passos principais para realizar as ações pedidas pelo desafio. A baixo segue o passo a passo de como foi realizada toda a solução.
+Para resolver o desafio [Google Cloud Storage](https://github.com/Isiumlord/ProjetoMaoNaMassa/tree/main/Desafio:%20Google%20Cloud%20Storage) mesclou-se tanto o ambiente gráfico quanto o uso de linhas de comando. Foram usados 5 passos principais para realizar as ações pedidas pelo desafio. Abaixo segue o passo a passo de como foi realizada toda a solução.
 
 ## PASSO 1 - Criar duas buckets usando o ambiente gráfico da Google Cloud Plataform.
 
